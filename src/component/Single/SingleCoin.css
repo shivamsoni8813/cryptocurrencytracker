@@ -1,0 +1,15 @@
+.sideBar{
+    text-align: center;
+    padding-top: 2rem;
+    width: 30vw;
+    height: 90vh;
+    border-right: 1px solid green;
+}
+.coinName{
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.logoImg{
+    width: 10rem;
+    height: 10rem;
+}
